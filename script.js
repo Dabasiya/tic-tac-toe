@@ -1,4 +1,4 @@
-window.onload = function(event) {
+window.onload = function() {
     canv = document.getElementById("ground");
     gtx = canv.getContext("2d");
     starter_player();
